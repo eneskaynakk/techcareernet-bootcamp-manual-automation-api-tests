@@ -3,7 +3,6 @@
 - Selenium ile Trendyol web otomasyon testi.
 - TestNG entegrasyonu ile test yönetimi.
 - TestRail Raporlama desteği.
-- Jenkins sürekli entegrasyon süreci.
 - Commons Email ile hata alınan sayfaların ekran görüntülerini e-posta ile gönderme.
 
 ## Gereksinimler
