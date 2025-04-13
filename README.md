@@ -22,7 +22,7 @@ Projeyi çalıştırabilmek için aşağıdaki araçlara ihtiyacınız var:
 ## Nasıl Çalıştırılır?
 1. Projeyi klonlayın:
     ```bash
-    git clone https://github.com/eneskaynakk/trendyol-test-automation.git
+    git clone https://github.com/eneskaynakk/techcareernet-bootcamp-manual-automation-api-tests.git
     cd projeadi
     
 2. Maven bağımlılıklarını yükleyin:
